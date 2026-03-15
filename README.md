@@ -54,7 +54,7 @@ This architecture ensures a **scalable, serverless backend** without maintaining
 ### Backend (Serverless)
 
 * AWS API Gateway
-* AWS Lambda (Node.js)
+* AWS Lambda ( Node.js )
 * DynamoDB
 
 ### Deployment
