@@ -19,6 +19,36 @@ This project simulates a real restaurant website with an interactive UI, smooth 
 
 ---
 
+## 🖼️ Screenshots & Demo
+
+### 🎬 Animation Demo
+![Pizza Animation](docs/assets/Animation.gif)
+
+### 🏠 Home Page
+![Home Page](docs/assets/home.png)
+
+### 🍕 Hero Section
+![Hero Section](docs/assets/hero.png)
+
+### 🍽️ Menu
+![Menu 1](docs/assets/menu1.png)
+
+![Menu 2](docs/assets/menu2.png)
+
+### 🌋 Inferno Pizza
+![Inferno Pizza](docs/assets/inferno.png)
+
+### 🎨 Restaurant Atmosphere
+![Restaurant Atmosphere](docs/assets/atmosphere.png)
+
+### 👨‍🍳 Craft
+![Craft Section](docs/assets/craft.png)
+
+### 📬 Contact Form
+![Contact Form](docs/assets/form.png)
+
+---
+
 ## 🏗️ Architecture
 
 Frontend (React + Redux + Redux-Saga)
