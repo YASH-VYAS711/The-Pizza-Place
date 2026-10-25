@@ -6,11 +6,6 @@ This project simulates a real restaurant website with an interactive UI, smooth 
 
 ---
 
-## 🌐 Live Website
-
-http://the-pizza-place.s3-website-ap-southeast-2.amazonaws.com/
----
-
 ## ✨ Features
 
 * Fully responsive multi-page React website
